@@ -8,8 +8,6 @@
   <img align="right" width="100%" height="450" src="https://github.com/user-attachments/assets/a01cbb8c-6866-4358-88b9-8cf7c3bfac67">
 </p>
 
-
-
 <p align="center">
   <a href = "https://www.linkedin.com/company/alphapoint/"> Alphapoint </a>
 </P>
@@ -21,6 +19,7 @@ For over 20 years we have provided software solutions and supported the needs of
 
 We specialise in internet and cloud solutions to meet the business needs of today, supporting the needs of communication and collaboration with clients, partners and colleagues with flexible, manageable and scalable solutions.
 </p>
+
 <!--
 
 **Here are some ideas to get you started:**
