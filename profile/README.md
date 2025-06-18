@@ -1,7 +1,7 @@
 ## Welcome to Our Business 👋 
 
 <p align="center">
-  <img align="right" width="100" height="100" src="https://github.com/user-attachments/assets/187d6be2-0745-41e4-8fee-ea804558d9ae/100/100">
+  <img align="right" width="100" height="100" src="https://github.com/user-attachments/assets/187d6be2-0745-41e4-8fee-ea804558d9ae">
 </p>
 
 ![Untitled3](https://github.com/user-attachments/assets/a01cbb8c-6866-4358-88b9-8cf7c3bfac67)
