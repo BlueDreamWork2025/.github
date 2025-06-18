@@ -1,8 +1,8 @@
 ## Welcome to Our Business 👋 
 
-![alphapoint](https://github.com/user-attachments/assets/187d6be2-0745-41e4-8fee-ea804558d9ae)    	![Untitled](https://github.com/user-attachments/assets/c77aad1f-30c9-45c1-93e2-9464532761bd)		
+![alphapoint](https://github.com/user-attachments/assets/187d6be2-0745-41e4-8fee-ea804558d9ae)    	
 
-																				![Untitled3](https://github.com/user-attachments/assets/a01cbb8c-6866-4358-88b9-8cf7c3bfac67)
+![Untitled](https://github.com/user-attachments/assets/c77aad1f-30c9-45c1-93e2-9464532761bd)	![Untitled3](https://github.com/user-attachments/assets/a01cbb8c-6866-4358-88b9-8cf7c3bfac67)
 
 
 https://www.linkedin.com/company/alphapoint/
