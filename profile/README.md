@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <a href = "https://www.linkedin.com/company/alphapoint/"> <h1>Overview 🚀</h1> </a>  
+  <a href = "https://www.linkedin.com/company/alphapoint/"> <h1> Alphapoint </h1></a>  
 </P>
 
+<h3>Overview 🚀</h3> 
 
 <p>
 AlphaPoint is a specialist internet arm of Alpha Analytic Limited, a technology company based in Islington, London, which has been trading for over 20 years.
