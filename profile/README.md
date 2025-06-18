@@ -5,13 +5,14 @@
 </p>
 
 <p align="center">
-  <img align="right" width="720" height="450" src="![Untitled3](https://github.com/user-attachments/assets/a01cbb8c-6866-4358-88b9-8cf7c3bfac67)">
+  <img align="right" width="720" height="450" src="(https://github.com/user-attachments/assets/a01cbb8c-6866-4358-88b9-8cf7c3bfac67)">
 </p>
 
 
 
-
-https://www.linkedin.com/company/alphapoint/
+<p align="center">
+  <a href = "https://www.linkedin.com/company/alphapoint/"> Alphapoint </a>
+</P>
 
 
 AlphaPoint is a specialist internet arm of Alpha Analytic Limited, a technology company based in Islington, London, which has been trading for over 20 years.
