@@ -1,13 +1,12 @@
 ## Welcome to Our Business 👋 
 
 <p align="center">
-  <a href = "https://www.linkedin.com/company/alphapoint/"> Alphapoint </a>  
-    <img align="right" width="100" height="100" src="https://github.com/user-attachments/assets/187d6be2-0745-41e4-8fee-ea804558d9ae">
+    <img align="right" width="100" height="100" src="https://ibb.co/Fb7Yz346">
 </P>
 
 
 <p align="center">
-  <img align="right" width="100%" height="450" src="https://github.com/user-attachments/assets/a01cbb8c-6866-4358-88b9-8cf7c3bfac67">
+  <img align="right" width="100%" height="450" src="https://ibb.co/NntshQF1">
 </p>
 
 <h3>Overview 🚀</h3> 
