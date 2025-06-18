@@ -1,9 +1,9 @@
 ## Welcome to Our Business 👋 
 
 
-<p align="center"><img width="300"  src = "https://github.com/user-attachments/assets/d698c562-738f-4fba-9629-70b3a18f0241"></p>
+<p align="center"><img width="140"  src = "https://github.com/user-attachments/assets/d698c562-738f-4fba-9629-70b3a18f0241"></p>
 
-<p align="center"><img width="100%" height="450" src="https://github.com/user-attachments/assets/a0fe141f-a007-49c6-9bb9-197fbf18b12e"></p>
+<p align="center"><img width="720" height="450" src="https://github.com/user-attachments/assets/a0fe141f-a007-49c6-9bb9-197fbf18b12e"></p>
 
 <h3>Overview 🚀</h3> 
 
